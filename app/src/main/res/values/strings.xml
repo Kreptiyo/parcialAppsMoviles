@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">parcialAppsMoviles</string>
+    <string name="nombre_pelicula">Ingrese el nombre de la pelicula</string>
+    <string name="edit_text_pelicula">Nombre de la pelicula</string>
+    <string name="guardar_datos">Guardar Datos</string>
+</resources>

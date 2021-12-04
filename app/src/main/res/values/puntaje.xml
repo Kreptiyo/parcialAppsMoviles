@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item>Valoracion: 1</item>
+        <item>Valoracion: 2</item>
+        <item>Valoracion: 3</item>
+        <item>Valoracion: 4</item>
+        <item>Valoracion: 5</item>
+        <item>Valoracion: 6</item>
+        <item>Valoracion: 7</item>
+        <item>Valoracion: 8</item>
+        <item>Valoracion: 9</item>
+        <item>Valoracion: 10</item>
+    </string-array>
+</resources>
